@@ -10,7 +10,7 @@ const sarabun = Sarabun({
 })
 
 export const metadata: Metadata = {
-  title: 'IMS — ระบบแจ้งปัญหา',
+  title: 'IMS — ระบบสำหรับแจ้งปัญหา',
   description: 'Issue Management System',
 }
 
